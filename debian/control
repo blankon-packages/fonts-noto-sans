@@ -1,0 +1,15 @@
+Source: fonts-noto-sans
+Section: x11
+Priority: optional
+Maintainer: AnTo SamalonA <ansamsoftdev@gmail.com>
+Build-Depends: cdbs, debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://www.google.com/get/noto/#sans-java
+#Vcs-Git: https://anonscm.debian.org/collab-maint/fonts-noto-sans.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/fonts-noto-sans.git
+
+Package: fonts-noto-sans
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Fonts Noto Sans is designed to be used as an interface font on free graphics server such as X.org.
+ Fonts Noto Sans is licensed under the Open Font License (explisit information is embedded in each OTF)
