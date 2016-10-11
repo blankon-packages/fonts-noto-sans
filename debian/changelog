@@ -1,5 +1,6 @@
-fonts-noto-sans (0.1) tambora; urgency=medium
+fonts-noto-sans (0.1-0blankon1) tambora; urgency=medium
 
-  * Build
+  * Build.
+  * 
 
- -- AnTo SamalonA <ansamsoftdev@gmail.com>  Tue, 11 Oct 2016 00:03:37 +0800
+ -- AnTo SamalonA <antosamalona@masDell>  Tue, 11 Oct 2016 10:52:35 +0800
